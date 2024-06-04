@@ -16,3 +16,13 @@ body {
     position: absolute;
     margin-right: 150px;
 }
+
+.header_text {
+    font-family: 'Nunito';
+    font-size: 40px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
