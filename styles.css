@@ -5,3 +5,14 @@ body {
     height: 90vh;
     background-color: #F8C8DC;
 }
+
+#noButton {
+    position: absolute;
+    margin-left: 150px;
+    transition: 0.5s;
+}
+
+#yesButton {
+    position: absolute;
+    margin-right: 150px;
+}
