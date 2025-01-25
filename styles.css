@@ -9,7 +9,7 @@ body {
 #noButton {
     position: absolute;
     margin-left: 150px;
-    transition: 0.9s;
+    transition: 9s;
 }
 
 #yesButton {
