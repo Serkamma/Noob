@@ -47,7 +47,7 @@ body {
     cursor: pointer;
     border: none;
     border-radius: 12px;
-    transition: background-color 0.5s ease;
+    transition: background-color 0.8s ease;
 }
 
 .gif_container {
