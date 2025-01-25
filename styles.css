@@ -9,7 +9,7 @@ body {
 #noButton {
     position: absolute;
     margin-left: 150px;
-    transition: 0.8s;
+    transition: 0.54s;
 }
 
 #yesButton {
@@ -47,7 +47,7 @@ body {
     cursor: pointer;
     border: none;
     border-radius: 12px;
-    transition: background-color 0.3s ease;
+    transition: background-color 0.5s ease;
 }
 
 .gif_container {
