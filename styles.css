@@ -21,7 +21,7 @@ body {
     font-family: 'Nunito';
     font-size: 40px;
     font-weight: bold;
-    color: white;
+    color: #519ec4;
     text-align: center;
     margin-top: 20px;
     margin-bottom: 0px;
@@ -37,7 +37,7 @@ body {
 }
 
 .btn {
-    background-color: #519ec4;
+    background-color: #;
     color: white;
     padding: 15px 32px;
     text-align: center;
